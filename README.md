@@ -1,6 +1,5 @@
 © 2025 A.F.M Mahmud Ullah
 
-🌱 Automated Weeding Robot
 An Arduino-powered autonomous robot designed to detect and remove weeds from gardens and small farms. 
 The robot navigates using GPS and ultrasonic sensors, controls motor drivers for motion and cutting,
 and uses efficient power management to ensure optimal field operation.
